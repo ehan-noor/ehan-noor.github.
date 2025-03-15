@@ -24,14 +24,14 @@ int main( void )
 {
    int integer1; /* first number to be input by user  */
    int integer2; /* second number to be input by user */
-   //1st Mistake> While defining integers, the line must end with a semicolomn.
+   //Mistake 1> While defining integers, the line must end with a semicolomn.
    
    int sum;      /* variable in which sum will be stored */ 
-   //2nd Mistake> The variable 'sum' isn't defined in the program.
+   //Mistake 2> The variable 'sum' wasn't defined in the program.
 
 
    printf( "Enter first integer\n" ); /* prompt */ 
-   //3rd mistake> There should be quotation marks inside the paranthesis in the function.
+   //Mistake 3> There must be quotation marks inside the paranthesis in printf function.
 
    scanf( "%d", &integer1 );        /* read an integer */
 
@@ -47,3 +47,4 @@ int main( void )
 
 ```
 
+https://github.com/Burak-NA/Burak-NA.github.io/blob/master/_codes/HW1-Q2.c
