@@ -1,16 +1,23 @@
 ---
 title: "Hw2"
-date: 2025-03-15T14:35:30+0300
+
 tags:
-  - Hw2
+- Hw2
 ---
-
-The mistakes explained at line 9,12 and 16. 
-
 
 Link to the code is given at the bottom of this page.
 
 
+  
+```c
+---
+title: "HW2-Q2"
+date: 2025-03-15T14:35:30+0300
+tags:
+  - HW2
+---
+
+Link to the code is given at the bottom of this page.
 
 
 
@@ -24,14 +31,14 @@ int main( void )
 {
    int integer1; /* first number to be input by user  */
    int integer2; /* second number to be input by user */
-   //Mistake 1> While defining integers, the line must end with a semicolomn.
+   //1st Mistake> While defining integers, the line must end with a semicolomn.
    
    int sum;      /* variable in which sum will be stored */ 
-   //Mistake 2> The variable 'sum' wasn't defined in the program.
+   //2nd Mistake> The variable 'sum' isn't defined in the program.
 
 
    printf( "Enter first integer\n" ); /* prompt */ 
-   //Mistake 3> There must be quotation marks inside the paranthesis in printf function.
+   //3rd mistake> There should be quotation marks inside the paranthesis in the function.
 
    scanf( "%d", &integer1 );        /* read an integer */
 
@@ -47,4 +54,6 @@ int main( void )
 
 ```
 
-https://github.com/Burak-NA/Burak-NA.github.io/blob/master/_codes/HW1-Q2.c
+```
+
+(https://github.com/Altanhasbay/Altanhasbay.github.io/blob/master/_codes/Hw2.c)
