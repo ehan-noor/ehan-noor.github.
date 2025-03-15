@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Burak Nezir Albaha"
+  name   : "H.Altan Hasbay"
   avatar : "/assets/images/biobio.jpg"
   bio    : "Undergraduate student in Electrical-Electronics Engineering, Hacettepe University."
   links:
