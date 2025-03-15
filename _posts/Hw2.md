@@ -1,9 +1,4 @@
----
-title: "Hw2"
 
-tags:
-- Hw2
----
 
 Link to the code is given at the bottom of this page.
 
