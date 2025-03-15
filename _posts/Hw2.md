@@ -1,8 +1,8 @@
 ---
-title: "HW1-Q2"
+title: "Hw2"
 date: 2025-03-15T14:35:30+0300
 tags:
-  - HW1
+  - Hw2
 ---
 
 The mistakes explained at line 9,12 and 16. 
