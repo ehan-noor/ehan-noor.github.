@@ -10,12 +10,6 @@ Link to the code is given at the bottom of this page.
 
   
 ```c
----
-title: "HW2-Q2"
-date: 2025-03-15T14:35:30+0300
-tags:
-  - HW2
----
 
 Link to the code is given at the bottom of this page.
 
