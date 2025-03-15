@@ -32,4 +32,4 @@ int main() {
 
 ```
 
-(https://github.com/Altanhasbay/Altanhasbay.github.io/blob/master/_codes/Hw2.c)
+(https://github.com/Altanhasbay/Altanhasbay.github.io/blob/master/_codes/Hw3.c)
