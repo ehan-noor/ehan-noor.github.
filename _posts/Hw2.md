@@ -1,17 +1,12 @@
 ---
 title: "Hw2"
-
+date: 2025-03-15T22:54:30+0300
 tags:
 - Hw2
 ---
 
 Link to the code is given at the bottom of this page.
 
-
-  
-```c
-
-Link to the code is given at the bottom of this page.
 
 
 
