@@ -1,6 +1,6 @@
 ---
 title: "Hw4"
-
+date: 2025-03-15T22:54:30+0300
 tags:
 - Hw4
 ---
@@ -54,7 +54,6 @@ int main() {
 
 ```
 
-```
 
 (https://github.com/Altanhasbay/Altanhasbay.github.io/blob/master/_codes/Hw4.c)
 
