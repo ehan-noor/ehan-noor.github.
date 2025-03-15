@@ -27,7 +27,9 @@ int main() {
     return 0;
 }
 
+
 ```
+
 ```
 
 (https://github.com/Altanhasbay/Altanhasbay.github.io/blob/master/_codes/Hw2.c)
